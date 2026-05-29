@@ -1,3 +1,4 @@
+//@author - Vakho Gvishiani
 package homework4;
 import java.util.Scanner;
 

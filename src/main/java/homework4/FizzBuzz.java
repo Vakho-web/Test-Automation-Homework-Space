@@ -1,3 +1,5 @@
+//@author - Vakho Gvishiani
+
 package homework4;
 
 public class FizzBuzz {
