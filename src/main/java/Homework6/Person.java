@@ -1,6 +1,5 @@
 //@author Vakho Gvishiani
 
-
 package Homework6;
 
 public class Person {
