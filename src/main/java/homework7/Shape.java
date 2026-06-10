@@ -2,5 +2,6 @@
 
 package homework7;
 
-public class Shape {
+public interface Shape {
+    double area();
 }
